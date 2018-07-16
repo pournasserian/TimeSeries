@@ -9,7 +9,7 @@ Time Series Forecasting Tutorial
 * [Double Exponential Smoothing](https://github.com/pournasserian/TimeSeries/blob/master/5-DoubleExponentialSmoothing.ipynb)
 * [Triple Exponential Smoothing](https://github.com/pournasserian/TimeSeries/blob/master/6-TripleExponentialSmoothing.ipynb)
 * [Linear Regression - Normal Equation](https://github.com/pournasserian/TimeSeries/blob/master/7-LinearRegression-Normal.ipynb)
-* [Linear Regression - Gradient Descent(https://github.com/pournasserian/TimeSeries/blob/master/7-LinearRegression-GD.ipynb)
+* [Linear Regression - Gradient Descent](https://github.com/pournasserian/TimeSeries/blob/master/7-LinearRegression-GD.ipynb)
 * [Autoregressive Model](https://github.com/pournasserian/TimeSeries/blob/master/8-AutoregressiveModel.ipynb)
 
 
